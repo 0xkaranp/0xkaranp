@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xkaranp&label=Profile%20views&color=0e75b6&style=flat" alt="0xkaranp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@karanp2004" target="blank"><img src="https://img.shields.io/twitter/follow/@karanp2004?logo=twitter&style=for-the-badge" alt="@karanp2004" /></a> </p>
+
 
 - 🌱 I’m currently learning **Coding**
 
