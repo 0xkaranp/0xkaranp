@@ -7,17 +7,21 @@
 
 
 
-- 🌱 I’m currently learning **Coding**
+- 🌱 I’m currently learning **Everything**
 
 - 📫 How to reach me **0xkaranp@gmail.com**
 
 - ⚡ Fun fact **professional overthinker**
 
+- 😊 currnt goal **Contribute more in coding**
+
+- 💥 also intrested in **Drawing,Gaming,Music**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@karanp2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@karanp2004" height="30" width="40" /></a>
 <a href="https://instagram.com/karanpatil9973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karanpatil9973" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/shorts/nxhbr3jn-fy?feature=share" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/shorts/nxhbr3jn-fy?feature=share" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4L3dow4Z5X0zUg_Y-3-eIQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/shorts/nxhbr3jn-fy?feature=share" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@0xkaranp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@0xkaranp" height="30" width="40" /></a>
 </p>
 
