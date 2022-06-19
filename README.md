@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **professional overthinker**
 
-- 😊 currnt goal **Contribute more in coding**
+- 😊 current goal **Became a good developer**
 
 - 💥 also intrested in **Drawing,Gaming,Music**
 
