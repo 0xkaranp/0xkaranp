@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Karan Patil</h1>
 <h3 align="center">LOVE TO DO CODIND,INTERESTED IN ASTRONOMY AND QUANTUM PHYSICS</h3>
-<img align="right" alt="coding" width="400" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif">
+<img align="right" alt="coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/scala-programming-language-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xkaranp&label=Profile%20views&color=0e75b6&style=flat" alt="0xkaranp" /> </p>
 
